@@ -77,17 +77,17 @@
 <body>
     
     <div class="header">
-        <a href="Main%20page.php">
+        <a href="mainPage.php">
             <img src="Images/VAT.png" alt="VAT Electronics">
         </a>
     </div>
 
     <div class="nav">
-        <a href="Gaming.php">Gaming</a>
-        <a href="Information.php">Information</a>
-        <a href="Support.php">Support</a>
-        <a href="Crud.php">Sign in</a>
-        <a href="Catalog.php">Catalog</a>
+        <a href="gaming.php">Gaming</a>
+        <a href="information.php">Information</a>
+        <a href="support.php">Support</a>
+        <a href="crud.php">Sign in</a>
+        <a href="catalog.php">Catalog</a>
     </div>
 
     <div class="content">
