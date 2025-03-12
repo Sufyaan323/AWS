@@ -15,7 +15,7 @@
 <body>
 
     <!-- Image as a hyperlink centered on the page -->
-    <a href="Main%20page.php">
+    <a href="mainPage.php">
         <img src="Images/VAT.png" alt="VAT" />
     </a>
 
