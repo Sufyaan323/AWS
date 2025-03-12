@@ -78,7 +78,7 @@
     
     <div class="header">
         <a href="mainPage.php">
-            <img src="Images/VAT.png" alt="VAT Electronics">
+            <img src="Images/Vat.png" alt="VAT Electronics">
         </a>
     </div>
 
