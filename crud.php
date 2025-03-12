@@ -43,7 +43,7 @@
            name="create">Create</button>
         <a href="update.php" class="link-primary">View</a>
 
-        <a href="Main%20page.php" style="text-align: right; class="link-primary">back</a>
+        <a href="mainPage.php" style="text-align: right; class="link-primary">back</a>
 </form>
 </body>
 </html>
